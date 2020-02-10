@@ -2,7 +2,9 @@
 A website for Dimmu Saurus, reincarnation 7.
 
 ### Technologies
-The goal of this project is to be as simple and as small as possible. It is a five page website, after all. Hence, no big frameworks or libraries were used, except when they really made difference.
+The goal of this project is a beautiful, small and effective effective website, not contributing to the [Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm). It looks good and loads fast, both on a powerful PC and a smartphone, and even on an old Nokia phone running Opera Mini.
+
+Hence, no big frameworks or libraries were used, except when they really made difference.
 
 * Frontend
   * Vanilla HTML5
